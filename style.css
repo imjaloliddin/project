@@ -1,0 +1,9 @@
+.h1 {
+  color: blueviolet;
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  grid-area: auto;
+  background-size: cover;
+  margin-top: 100px;
+}
